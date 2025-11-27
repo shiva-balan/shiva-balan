@@ -10,7 +10,7 @@
 - ☁️ Skilled in **AWS, Docker, Kubernetes, Git, Jenkins, Linux, and Terraform**  
 - 🛠️ Actively applying **Java Spring Boot & Parallel Streams** to optimize ETL pipelines  
 - 💬 Ask me about **DevOps, Cloud Platforms, Performance Engineering, and Java**  
-- 📫 Reach me at **shivabalan2002@gmail.com**  
+- 📫 Reach me at **Shivabalan.rajan@platform3solutions.com**  
 - ⚡ Fun fact: I love automating repetitive tasks so I can enjoy ☕ and debugging more 😆  
 
 ---
@@ -26,7 +26,7 @@
       </a>
     </td>
     <td align="center" width="100">
-      <a href="mailto:shivabalan2002@gmail.com" target="blank">
+      <a href="mailto:Shivabalan.rajan@platform3solutions.com" target="blank">
         <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" width="40" />
         <br/> Email
       </a>
