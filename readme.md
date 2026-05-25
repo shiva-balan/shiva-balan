@@ -18,10 +18,6 @@ AWS • Kubernetes • CI/CD • Terraform • Performance Optimization
 - 🐳 Working with **Docker, Kubernetes, Terraform, Jenkins, and Linux**
 - 📊 Handling **BCP/DR activities**, infrastructure recovery, and automation
 - 🔍 Working with **OpenSearch, PostgreSQL, and ETL optimization**
-- ⚡ Optimizing Java ETL systems using:
-  - `CompletableFuture`
-  - Parallel Streams
-  - Multithreading
 - 🛠️ Interested in:
   - Cloud Infrastructure
   - DevOps Automation
@@ -92,6 +88,5 @@ AWS • Kubernetes • CI/CD • Terraform • Performance Optimization
 - CI/CD Pipeline Optimization
 - Disaster Recovery & BCP Activities
 - OpenSearch & Monitoring
-- ETL Performance Engineering
-- Java Parallel Processing
+- Performance Engineering
 - Infrastructure as Code (Terraform)
