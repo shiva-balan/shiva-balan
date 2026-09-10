@@ -119,26 +119,6 @@ Operations, DR & Resiliency:
 
 ---
 
-## 📊 GitHub & Activity Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiva-balan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shiva Balan's GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-balan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-balan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
